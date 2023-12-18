@@ -19,7 +19,7 @@ If you're interested in using the Gatsby Starter Blog as a foundation for your o
 
 5. **View the blog:** Open your web browser and navigate to http://localhost:8000 to view the blog in development mode.
 ### Deployment
-The blog is currently deployed and accessible at https://rahularorablog.netlify.app/. If you plan to deploy your own blog based on Gatsby, consider using one of the popular hosting platforms like Netlify, Vercel, GitHub Pages, AWS Amplify, or Surge.
+The blog is currently not deployed. If you plan to deploy your own blog based on Gatsby, consider using one of the popular hosting platforms like Netlify, Vercel, GitHub Pages, AWS Amplify, or Surge.
 
 Refer to the documentation of your chosen hosting platform for instructions on how to deploy a Gatsby site.
 ### Contributions
